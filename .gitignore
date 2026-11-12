@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+.Ds_Store
+.env
+Data/app.db
+DATA/users.txt
+.streamlist/secrets.toml
+practice/
